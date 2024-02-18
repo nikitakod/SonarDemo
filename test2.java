@@ -15,5 +15,6 @@ class GFG {
 		GFG ob = new GFG();
 		int res = ob.sum(28, 49);
 		System.out.println(res);
+		System.out.println("changes new");
 	}
 }
