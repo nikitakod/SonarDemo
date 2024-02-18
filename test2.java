@@ -1,7 +1,7 @@
 // Java Program to implement
 // Direct Addition to Add two Numbers
 //import java.io;
-//package com.cybage
+package com.cybage
 // Driver Class
 class GFG {
 	public static int sum(int num1, int num2)
