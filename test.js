@@ -2,23 +2,27 @@
 // simple mathematical calculations 
 
 // Add two numbers 
-function add(num1, num2) { 
+function add(num1, num2) 
+{ 
 	return num1 + num2; 
 } 
 
 // Function for subtraction 
-function subtract(num1, num2) { 
+function subtract(num1, num2) 
+{ 
 	return num1 - num2; 
 } 
 
 // For multiplying of two numbers 
-function multiply(num1, num2) { 
+function multiply(num1, num2)
+{ 
 	return num1 * num2; 
 } 
 
 // Function for division of 
 // two numbers 
-function divide(num1, num2) { 
+function divide(num1, num2) 
+{ 
 if(num2 === 0) return undefined; 
 	return num1 / num2; 
 } 
@@ -34,7 +38,8 @@ let operation = "/";
 let result; 
 
 // If-Else conditions 
-if (operation === "+") { 
+if (operation === "+") 
+{ 
 	result = add(num1, num2); 
 } else if (operation === "-") { 
 	result = subtract(num1, num2); 
