@@ -1,6 +1,6 @@
 // Java Program to implement
 // Direct Addition to Add two Numbers
-import java.io.*;
+//import java.io;
 
 // Driver Class
 class GFG {
