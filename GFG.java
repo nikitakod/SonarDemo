@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG {
+class GFG1 {
 
     // Function to find the biggest of three numbers
     static int biggestOfThree(int x, int y, int z) {
